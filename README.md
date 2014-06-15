@@ -1,2 +1,2 @@
-- My Blog based ellochen.github.com
-Thanks for ellochen
+- My Blog based qinshaoq.github.com
+Thanks for qinshaoq
