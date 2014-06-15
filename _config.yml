@@ -1,0 +1,6 @@
+markdown: kramdown
+permalink: /:year/:month/:title/
+author: wangc
+pygments: true
+paginate: 16
+url: http://wangcgit.github.com
